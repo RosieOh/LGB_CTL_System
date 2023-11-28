@@ -1,7 +1,5 @@
 # 🎓LGB_CTL_System for Linton Global School
 
-### Rosie's Final University Web Project
-
 🎓린튼글로벌스쿨 졸업생이 그동안의 졸업인증제도 스트레스 받아서 아예 인프라를 직접 구축을 해볼려고 만드는 웹사이트🎓
 
 🔥위 프로젝트는 Apache Licence에 따라 저작권법을 따릅니다.🔥
